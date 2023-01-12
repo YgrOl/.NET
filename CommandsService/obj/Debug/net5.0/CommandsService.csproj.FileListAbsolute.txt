@@ -1,0 +1,2 @@
+E:\.NET\CommandsService\obj\Debug\net5.0\CommandsService.csproj.AssemblyReference.cache
+E:\.NET\CommandsService\obj\Debug\net5.0\CommandsService.GeneratedMSBuildEditorConfig.editorconfig
